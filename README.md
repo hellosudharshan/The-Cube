@@ -22,4 +22,5 @@ Open index.html in your browser.
 Interact with the cube using your mouse or touch.
 
 ## Try solving the classic Rubik's cube!
-1000021625.jpg
+https://github.com/hellosudharshan/The-Cube/blob/main/1000021624.jpg
+https://github.com/hellosudharshan/The-Cube/blob/main/1000021625.jpg
