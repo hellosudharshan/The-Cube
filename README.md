@@ -22,5 +22,6 @@ Open index.html in your browser.
 Interact with the cube using your mouse or touch.
 
 ## Try solving the classic Rubik's cube!
-![1000021624](https://github.com/user-attachments/assets/cac70826-7dd9-4dc0-beaa-e56a9b486c57)
 ![1000021625](https://github.com/user-attachments/assets/59a1b17a-ae36-4da7-a10d-d0d06ecc8a57)
+![1000021624](https://github.com/user-attachments/assets/cac70826-7dd9-4dc0-beaa-e56a9b486c57)
+
