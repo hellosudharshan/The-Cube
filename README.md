@@ -11,10 +11,11 @@ This project demonstrates a simple interactive 3D cube rendered using Three.js, 
 ## How It Works
 
 - Feel free to play : https://svs-cube.vercel.app/
-Three.js Scene Setup: Initializes a scene, camera, and renderer.
-Cube Geometry: Creates a box geometry and applies a basic material.
-Animation Loop: Continuously renders the scene and updates the cube's rotation.
-Controls: Optionally includes orbit controls for interactive rotation.
+
+- Three.js Scene Setup: Initializes a scene, camera, and renderer.
+- Cube Geometry: Creates a box geometry and applies a basic material.
+- Animation Loop: Continuously renders the scene and updates the cube's rotation.
+- Controls: Optionally includes orbit controls for interactive rotation.
 
 ## Getting Started
 
